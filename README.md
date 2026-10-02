@@ -69,6 +69,6 @@ Cada archivo también se puede probar solo: `python sensores.py`, `python actuad
 
 Usamos GitHub y repartimos el trabajo en 3 avances:
 
-- Avance 1 (Persona 1): excepciones, ambiente y sensores.
-- Avance 2 (Persona 2): actuadores y zona de cultivo.
-- Avance 3 (Persona 3): invernadero, programa principal y este README.
+- Avance 1 : excepciones, ambiente y sensores.
+- Avance 2 : actuadores y zona de cultivo.
+- Avance 3 : invernadero, programa principal y este README.
