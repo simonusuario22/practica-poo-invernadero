@@ -86,6 +86,11 @@ class ZonaCultivo:
         else:
             print(f"  [{self.nombre}] Listo -> {actuador}")
 
+    @property
+    def litros_agua(self):
+        # litros que ha gastado el riego de esta zona
+        return self._actuadores["riego"].litros_usados
+
     def __str__(self):
         lecturas = ", ".join(str(s) for s in self._sensores.values())
         encendidos = ", ".join(a.NOMBRE for a in self._actuadores.values() if a.encendido)
