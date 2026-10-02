@@ -1,5 +1,5 @@
 # actuadores.py
-# Actuadores del invernadero (Persona 2)
+# Actuadores del invernadero
 
 from abc import ABC, abstractmethod
 

@@ -1,5 +1,5 @@
 # ambiente.py
-# Las condiciones "reales" de una zona (Persona 1)
+# Las condiciones "reales" de una zona
 # Los sensores miden esto y más adelante los actuadores lo van a modificar.
 
 

@@ -1,5 +1,5 @@
 # sensores.py
-# Sensores del invernadero (Persona 1)
+# Sensores del invernadero
 
 import random
 from abc import ABC, abstractmethod
